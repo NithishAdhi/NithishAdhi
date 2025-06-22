@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cool-animation.gif" alt="Cool animation" width="100%" height="300px"/>
+  <img src="./ramensop.gif" alt="Cool animation" width="100%" height="300px"/>
 </p>
 
 ## Hi there 👋
