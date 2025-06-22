@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gasstation.gif" alt="Cool animation" width="100%" height="300px"/>
+                  <img src="https://widgetbite.com/banner?title=&subtitle=&backgroundpalette=twilight&fontpalette=fusion&titletransform=rotate&subtitletransform=none" width=100% height=100%/>
 </p>
 
 ## Hi there 👋
