@@ -1,5 +1,5 @@
 <p align="center">
-                  <img src="https://widgetbite.com/banner?title=&subtitle=&backgroundpalette=twilight&fontpalette=fusion&titletransform=rotate&subtitletransform=none" width=100% height=100%/>
+                  <img src="https://widgetbite.com/banner?title=&subtitle=&backgroundpalette=twilight&fontpalette=fusion&titletransform=rotate&subtitletransform=none" width=100% height=10/>
 </p>
 
 ## Hi there 👋
