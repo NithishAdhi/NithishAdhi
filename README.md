@@ -8,8 +8,8 @@
 </div>
 
 ###
+<img align="left" height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/marvel-spider-man-miles-morales/marvel-spider-man-miles-morales-doodle.gif" />
 
-<img align="right" height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/marvel-spider-man-miles-morales/marvel-spider-man-miles-morales-doodle.gif" />
 
 
 ###
